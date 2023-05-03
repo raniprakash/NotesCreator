@@ -1,0 +1,16 @@
+{
+  "name": "mern-project-notescreator",
+  "version": "1.0.0",
+  "description": "Notes taking website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Rani Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
